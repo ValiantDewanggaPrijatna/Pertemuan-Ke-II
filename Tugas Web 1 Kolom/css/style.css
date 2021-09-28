@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto', 'sans-serif';
+}
+
+.Container{
+    width: 1000px;
+    margin: auto;
+}
+
+.Header{
+    width: 100%;
+    text-align: center;
+}
+
+.Header img{
+    width: 100%;
+}
+
+.Menu{
+    width: 100%;
+    height: 50px;
+    background-color: #273c75;
+    margin:auto;
+}
+
+.Menu ul{
+    list-style: none;
+}
+
+.Menu ul li{
+    float:left;
+}
+
+.Menu ul li a{
+    color:white;
+    text-decoration: none;
+    line-height: 50px;
+    padding: 5px 30px;
+}
+
+.Menu ul li a:hover{
+    color: #fbc531;
+    background-color: #40739e;
+    border-radius: 5px;
+}
+
+.article{
+    width: 100%;
+}
+
+.Article-1{
+    width: 100%;
+}
+
+.Article-1 h2{
+    width: 100%;
+    height: 50px;
+    background-color: #a6a7aa;
+    padding: 10px;
+    margin: auto;
+    margin-top: 10px;
+    text-align: left;
+    color: black;
+}
+
+.Article-1 p{
+    width: 100%;
+    padding: 20px 5px;
+    line-height: 30px;
+
+}
+
+.Article-2 h2{
+    width: 100%;
+    height: 50px;
+    background-color: #a6a7aa;
+    padding: 10px;
+    margin: auto;
+    text-align: left;
+    color: black;
+}
