@@ -78,6 +78,10 @@ body{
 
 }
 
+.Article-2{
+    width: 100%;
+}
+
 .Article-2 h2{
     width: 100%;
     height: 50px;
@@ -85,5 +89,50 @@ body{
     padding: 10px;
     margin: auto;
     text-align: left;
+    color: black;
+}
+
+.ImagesLogo2{
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+}
+
+.ImagesLogo2 img{
+    
+}
+
+.Article-3{
+    width: 100%;
+}
+
+.Article-3 h2{
+    width: 100%;
+    height: 50px;
+    background-color: #a6a7aa;
+    padding: 10px;
+    margin: auto;
+    text-align: left;
+    color: black;
+}
+
+.Article-3 img{
+    width: 100%;
+    padding: 10px 0px;
+}
+
+.Footer{
+    width: 1000px;
+    height: 50px;
+    margin: auto;
+    padding: 25px 10px;
+    background-color: #2f3640;
+}
+
+.Copyright{
+    color: whitesmoke;
+}
+
+.School{
     color: black;
 }
